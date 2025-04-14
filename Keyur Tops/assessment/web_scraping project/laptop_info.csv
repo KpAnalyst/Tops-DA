@@ -1,0 +1,961 @@
+,productname,price,processor,RAM,os,display,rating
+0,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹15,990",intel core i5 processor (12th gen),16 gb ddr5 ram,"windows 11, microsoft office",40.64 cm (16 inch) display,3.7
+1,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹99,990",intel core i7 processor (12th gen),16 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.5
+2,Acer Swift Go 14 Snapdragon X Plus - (16 GB/512 GB SSD/Windows 11 Home) SFG14-01-X9C8 Thin and Light L...,"₹64,990",amd ryzen 5 hexa core processor,16 gb ddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.2
+3,Lenovo IdeaPad Slim 5 WUXGA IPS AI PC Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) 14I...,"₹68,990",amd ryzen 7 octa core processor,16 gb ddr4 ram,64 bit windows 11 operating system,35.56 cm (14 inch) display,4.2
+4,Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS - (12 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹62,490",amd ryzen 5 hexa core processor,16 gb lpddr4x ram,windows 11 operating system,35.56 cm (14 inch) touchscreen display,4.4
+5,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹1,27,490",intel core i5 processor (11th gen),8 gb ddr4 ram,64 bit windows 10 operating system,39.62 cm (15.6 inch) display,4
+6,DELL Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light Lapt...,"₹52,990",intel core i5 processor (12th gen),8 gb ddr4 ram,64 bit windows 11 operating system,39.62 cm (15.6 inch) display,3.8
+7,Acer Swift Go 14 TouchScreen AI PC Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) SFG14-...,"₹79,990",intel core i5 processor (13th gen),8 gb ddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.3
+8,HP Pavilion Aero AMD Ryzen 5 Hexa Core 7535U - (16 GB/512 GB SSD/Windows 11 Home) 13-BE2056AU Thin and...,"₹71,990",intel core 5 processor,16 gb lpddr4x ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.2
+9,Lenovo IdeaPad Slim 5 Co-Pilot PC Snapdragon X Plus - (16 GB/1 TB SSD/Windows 11 Home) 14Q8X9 Thin and...,"₹64,990",intel core i5 processor (13th gen),16 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.1
+10,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹46,490",intel core i5 processor (7th gen),8 gb ddr4 ram,64 bit windows 10 operating system,39.62 cm (15.6 inch) display,4.2
+11,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹17,990",amd ryzen 5 quad core processor,16 gb lpddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.1
+12,SAMSUNG Galaxy Book4 Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGJ-KG2IN ...,"₹56,990",amd ryzen 5 quad core processor,16 gb lpddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.5
+13,MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹52,990",intel core i5 processor (13th gen),16 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.3
+14,Acer Aspire 7 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,"₹55,990",intel core i5 processor (11th gen),8 gb ddr4 ram,64 bit windows 10 operating system,35.56 cm (14 inch) display,4.3
+15,Acer Aspire 7 Intel Core i5 13th Gen 13420H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,"₹54,990",Not Available,Not Available,Not Available,Not Available,4.3
+16,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹41,000",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4.2
+17,Acer Aspire 7 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA G...,"₹62,990",amd ryzen 5 quad core processor,16 gb lpddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.3
+18,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0111TU Thin and Light Laptop,"₹44,999",amd ryzen 3 quad core processor,8 gb unified memory ram,windows 11,34.54 cm (13.6 inch) display,4.2
+19,HP 15s Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) fy5008TU Thin and Light Laptop,"₹69,990",intel celeron dual core processor,8 gb unified memory ram,64 bit windows 11 home operating system,34.54 cm (13.6 inch) display,4.3
+20,"Lenovo IdeaPad Slim 3 Intel Intel Core i7 13th Gen Core™ i7-13620H, 10C (6P + 4E) / 16T, P-core 2.4 / ...","₹64,990",intel core i7 processor (12th gen),16 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,3.7
+21,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Pro/4 GB Graphics/NVIDIA GeForc...,"₹69,990",amd ryzen 5 quad core processor,16 gb lpddr5 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.3
+22,Infinix GT Book Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA...,"₹63,490",intel core i3 processor (13th gen),8 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.5
+23,DELL Inspiron 5620 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5620 Lap...,"₹62,640",intel core i5 processor (12th gen),16 gb lpddr5x ram,windows 11 operating system,40.64 cm (16 inch) display,4.8
+24,HP Pavilion Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) 14-dv0543TU Thin and Lig...,"₹59,990",intel core i5 processor (12th gen),8 gb ddr4 ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.4
+25,"ASUS Vivobook 16X for Creator, Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB ...","₹15,990",intel core i7 processor (12th gen),16 gb ddr5 ram,64 bit windows 11 operating system,39.62 cm (15.6 inch) display,4.2
+26,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹62,990",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,3.7
+27,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹59,740",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4.3
+28,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1335U - (16 GB/1 TB SSD/Windows 11 Home...","₹65,990",intel core i5 processor (13th gen),4 gb lpddr4x ram,64 bit windows 11 operating system,29.46 cm (11.6 inch) display,4.2
+29,HP Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0315TU Thin and Light Laptop,"₹99,990",intel core i9 processor (13th gen),16 gb ddr5 ram,windows 11 operating system,40.64 cm (16 inch) display,4
+30,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹67,899",intel core i7 processor (13th gen),24 gb unified memory ram,windows 11 operating system,34.54 cm (13.6 inch) display,4.2
+31,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹46,490",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4.5
+32,HP Intel Core i5 13th Gen - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated intel hd) 14-ek1074TU 2...,"₹60,999",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4.6
+33,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹66,990",intel core i7 processor (13th gen),16 gb lpddr5x ram,windows 11 operating system,38.86 cm (15.3 inch) display,4.2
+34,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 4S Thi...,"₹1,27,490",intel core i7 processor (14th gen),16 gb ddr5 ram,windows 11 operating system,40.64 cm (16 inch) display,3.9
+35,MICROSOFT Laptop Go 3 Intel Core i5 12th Gen 1235U - (8 GB/256 GB SSD/Windows 11 Home) XK1-00045 Thin ...,"₹17,990",amd ryzen 9 octa core processor,16 gb lpddr5x ram,windows 11 operating system,39.62 cm (15.6 inch) display,4.2
+36,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹68,990",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4
+37,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹74,990",intel core i7 processor (13th gen),16 gb ddr5 ram,64 bit windows 11 operating system,40.89 cm (16.1 inch) display,4.1
+38,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,"₹41,000",intel core i7 processor (13th gen),16 gb ddr4x ram,windows 11 operating system,33.78 cm (13.3 inch) touchscreen display,4.2
+39,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹74,990",intel core i3 processor (12th gen),8 gb ddr4 ram,windows,39.62 cm (15.6 inch) display,4.2
+40,HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...,"₹49,990",amd ryzen z1 extreme processor,16 gb lpddr5x ram,windows 11 home operating system,22.35 cm (8.8 inch) touchscreen display,4.3
+41,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹69,990",Not Available,Not Available,Not Available,Not Available,4.2
+42,HP Pavilion Plus Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) 14-ew0116TU Thin an...,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.3
+43,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,"₹55,946",Not Available,Not Available,Not Available,Not Available,4.2
+44,DELL Inspiron 5430 Intel Core i5 13th Gen - (16 GB/1 TB SSD/Windows 11 Home) IN5430JNH1P001ORS1 Thin a...,"₹69,990",Not Available,Not Available,Not Available,Not Available,4
+45,SAMSUNG Galaxy Book4 Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-KG1IN /...,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.5
+46,HP Pavilion AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 14-ec0000AX...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+47,Lenovo Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) V15 G3 IAP Thin and Light Lap...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+48,Acer Swift Go 14 OLED EVO Intel Core i7 13th Gen 13700H - (16 GB/1 TB SSD/Windows 11 Home) SFG14-71-70...,"₹63,500",Not Available,Not Available,Not Available,Not Available,4.3
+49,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.2
+50,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹47,800",Not Available,Not Available,Not Available,Not Available,3.7
+51,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.5
+52,HP Victus Intel Core i5 13th Gen 13420H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+53,ASUS TUF Gaming F15 Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NV...,"₹57,990",Not Available,Not Available,Not Available,Not Available,4.4
+54,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s- fr5011TU Thin and Light Lapt...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.1
+55,HP Intel Core i5 12th Gen 1235U - (8 GB/1 TB SSD/Windows 11 Home) 15s-fq5331TU Thin and Light Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+56,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4
+57,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹65,500",Not Available,Not Available,Not Available,Not Available,4.2
+58,ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹59,985",Not Available,Not Available,Not Available,Not Available,4.4
+59,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹63,990",Not Available,Not Available,Not Available,Not Available,4.3
+60,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹49,150",Not Available,Not Available,Not Available,Not Available,4.1
+61,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.2
+62,HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2153TU Thin and Light...,"₹43,400",Not Available,Not Available,Not Available,Not Available,4.2
+63,HP Pavilion 14 Touchscreen Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Pavilion ...,"₹69,490",Not Available,Not Available,Not Available,Not Available,4
+64,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹44,790",Not Available,Not Available,Not Available,Not Available,4.3
+65,HP Laptop Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5329TU Thin and Light...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.2
+66,HP Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) 15S-FY5009TU Thin and Light Laptop,"₹57,990",Not Available,Not Available,Not Available,Not Available,4.3
+67,HP Pavilion Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-dv2014TU Thin and Lig...,"₹82,690",Not Available,Not Available,Not Available,Not Available,3.8
+68,ASUS X1502ZA Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ532WS Laptop,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.3
+69,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Ho...","₹15,990",Not Available,Not Available,Not Available,Not Available,3.7
+70,HP Pavilion 15 AMD Ryzen 5 Hexa Core 13th Gen AMD Ryzen™ 5 5625U - (8 GB/512 GB SSD/Windows 11 Home) 1...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.4
+71,Acer Nitro V AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹65,490",Not Available,Not Available,Not Available,Not Available,4.3
+72,HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+73,Lenovo LOQ Intel Core i5 12th Gen 12450HX - (12 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.4
+74,HP (2024) Laptop with Backlit Keyboard Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home...,"₹60,990",Not Available,Not Available,Not Available,Not Available,3.7
+75,ASUS Vivobook S 14 Intel EVO H-Series Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Hom...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.5
+76,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹53,850",Not Available,Not Available,Not Available,Not Available,4.3
+77,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹69,990",Not Available,Not Available,Not Available,Not Available,4.4
+78,"Acer Aspire Lite with Backlit Keyboard, Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home...","₹17,990",Not Available,Not Available,Not Available,Not Available,4
+79,Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS - (24 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+80,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.3
+81,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.2
+82,ASUS Vivobook 15 Touch Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EZ311W...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.2
+83,Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home) 14IAH8 Thin and...,"₹49,990",Not Available,Not Available,Not Available,Not Available,3.8
+84,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Ho...","₹51,890",Not Available,Not Available,Not Available,Not Available,4.1
+85,Lenovo Thinkpad E14 G5 Intel Core i5 13th Gen 1335U with 3 year Warranty - (16 GB/512 GB SSD/Windows 1...,"₹61,400",Not Available,Not Available,Not Available,Not Available,4.2
+86,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹58,490",Not Available,Not Available,Not Available,Not Available,4.4
+87,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,3.7
+88,HP Victus Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.5
+89,"HP 240 G9 Intel Core i7 12th Gen 1255U Deca Core with Intel Turbo Boost, Finger Print - (16 GB/512 GB ...","₹54,990",Not Available,Not Available,Not Available,Not Available,3.3
+90,HP Pavilion Intel Core i5 13th Gen 1340p - (16 GB/512 GB SSD/Windows 11 Home) 15-eg3027TU Thin and Lig...,"₹64,990",Not Available,Not Available,Not Available,Not Available,3.7
+91,ASUS Intel Core i5 13th Gen - (8 GB/512 GB SSD/Windows 11 Home) X1504VA-NJ522WS Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+92,DELL Inspiron 5430 Intel Core i5 13th Gen - (8 GB/512 GB SSD/Windows 11 Home) IN5430YXVW9M01ORS1 Lapto...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.5
+93,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Hom...","₹69,990",Not Available,Not Available,Not Available,Not Available,4.2
+94,DELL Inspiron 16 5630 Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) IN5630P8YRR001...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.3
+95,HP AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 14s-fy1005AU Thin and Light Laptop,"₹65,547",Not Available,Not Available,Not Available,Not Available,4.5
+96,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹51,999",Not Available,Not Available,Not Available,Not Available,4.1
+97,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.7
+98,HP Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0187TU Thin and Light Laptop,"₹73,990",Not Available,Not Available,Not Available,Not Available,4
+99,Acer Gaming AMD Ryzen 5 Hexa Core 6600H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.2
+100,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹56,068",Not Available,Not Available,Not Available,Not Available,4.3
+101,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹58,990",Not Available,Not Available,Not Available,Not Available,3.3
+102,"ASUS Vivobook 16X for Creator, Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB ...","₹63,690",Not Available,Not Available,Not Available,Not Available,4.2
+103,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹47,890",Not Available,Not Available,Not Available,Not Available,4.2
+104,Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphic...,"₹59,500",Not Available,Not Available,Not Available,Not Available,4.3
+105,Lenovo Ideapad Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 15IAH8...,"₹46,990",Not Available,Not Available,Not Available,Not Available,4.4
+106,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹56,990",Not Available,Not Available,Not Available,Not Available,4.1
+107,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹69,083",Not Available,Not Available,Not Available,Not Available,4.3
+108,ASUS Vivobook Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11 Home) X1605ZAC-MB741WS Lapt...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.4
+109,HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce ...,"₹69,890",Not Available,Not Available,Not Available,Not Available,4.1
+110,ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (8 GB/1 TB SSD/Windows 11 Home...,"₹60,490",Not Available,Not Available,Not Available,Not Available,4.2
+111,ASUS VivoBook K15 OLED AMD Ryzen 5 Hexa Core AMD R5-5500U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.2
+112,"DELL Inspiron 15 3520 with Backlit Keyboard, Intel Core i5 12th Gen Core i5 - (16 GB/512 GB SSD/Window...","₹99,990",Not Available,Not Available,Not Available,Not Available,4.5
+113,ASUS Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 30...,"₹68,990",Not Available,Not Available,Not Available,Not Available,4.5
+114,DELL Inspiron 3520 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 0IN352010031RINB1M...,"₹69,290",Not Available,Not Available,Not Available,Not Available,4.3
+115,Acer ALG Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,"₹68,990",Not Available,Not Available,Not Available,Not Available,4
+116,HP Pavilion Eyesafe AMD Ryzen 5 Dual Core 5625U - (16 GB/512 GB SSD/Windows 11 Home) 14-EC1019AU Thin ...,"₹51,990",Not Available,Not Available,Not Available,Not Available,4.2
+117,Lenovo IdeaPad Gaming 3 Intel Core i5 10th Gen 10300H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+118,Lenovo IdeaPad Flex 5 AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 2 in 1 L...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.5
+119,Lenovo IdeaPad Flex 5 AMD Ryzen 5 Hexa Core 7530U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 2 in 1 L...,"₹62,099",Not Available,Not Available,Not Available,Not Available,4.5
+120,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹68,990",Not Available,Not Available,Not Available,Not Available,4.3
+121,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+122,ASUS AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX...,"₹40,990",Not Available,Not Available,Not Available,Not Available,4.2
+123,ASUS ExpertBook P2 Intel Core i5 10th Gen 10210U - (8 GB/1 TB HDD/DOS/2 GB Graphics) ExpertBook P2 P24...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.7
+124,Acer Nitro 5 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹64,899",Not Available,Not Available,Not Available,Not Available,4
+125,Acer Aspire Vero Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) AV14-52P-59SX Thin ...,"₹67,390",Not Available,Not Available,Not Available,Not Available,4.5
+126,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.4
+127,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.2
+128,Lenovo IdeaPad Slim 5 AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) 14ABR8 Thin and...,"₹59,500",Not Available,Not Available,Not Available,Not Available,4.1
+129,Lenovo Ideapad Gaming 3i Intel Core i5 10th Gen 10300H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 G...,"₹79,990",Not Available,Not Available,Not Available,Not Available,4.3
+130,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹67,590",Not Available,Not Available,Not Available,Not Available,4.4
+131,HP AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0155AU Thin and Light Laptop,"₹69,500",Not Available,Not Available,Not Available,Not Available,4.3
+132,Lenovo IdeaPad Gaming 3 Intel Intel Core i5 11th Gen 11300H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Gr...,"₹69,900",Not Available,Not Available,Not Available,Not Available,4.2
+133,HP Pavilion Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB SSD/Windows 11 Home) 14-dv1001TU Thin and Li...,"₹67,099",Not Available,Not Available,Not Available,Not Available,4.2
+134,ASUS TUF AMD Ryzen 7 Quad Core 3750H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce G...,"₹68,999",Not Available,Not Available,Not Available,Not Available,4.5
+135,Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics...,"₹65,990",Not Available,Not Available,Not Available,Not Available,3.7
+136,HP 15s Intel Core i5 13th Gen 1335U - (8 GB/1 TB SSD/Windows 11 Home) 15-fd0012TU Thin and Light Lapto...,"₹69,999",Not Available,Not Available,Not Available,Not Available,3.9
+137,ASUS Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 30...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.2
+138,HP Pavilion Aero AMD Ryzen 5 Hexa Core 5600U - (16 GB/512 GB SSD/Windows 10 Home) 13-BE0190AU Thin and...,"₹99,990",Not Available,Not Available,Not Available,Not Available,2.7
+139,Lenovo Yoga Slim 6 WUXGA OLED Intel Evo Intel Core i5 13th Gen 1340P - (16 GB/512 GB SSD/Windows 11 Ho...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.4
+140,Lenovo IdeaPad Flex 5 AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 14ALC7 2 in 1 L...,"₹69,000",Not Available,Not Available,Not Available,Not Available,4.4
+141,Lenovo ThinkPad E15 Intel Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) E15 Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+142,Lenovo Thinkpad E series Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Pro) TPE14G2 Bus...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.5
+143,Lenovo ThinkPad E15 Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) E15 Laptop,"₹61,199",Not Available,Not Available,Not Available,Not Available,2.6
+144,ASUS Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) K3502ZA-L503WS Thin and Light ...,"₹69,590",Not Available,Not Available,Not Available,Not Available,4.3
+145,Lenovo IdeaPad Gaming 3 AMD Ryzen 7 Octa Core 6800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.7
+146,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹57,990",Not Available,Not Available,Not Available,Not Available,4
+147,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4
+148,HP Pavilion Intel Core i5 12th Gen 1240P - (16 GB/512 GB SSD/Windows 11 Home) EG2002TU Thin and Light ...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.3
+149,Lenovo ThinkPad E15 Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) E15 Thin and Lig...,"₹66,999",Not Available,Not Available,Not Available,Not Available,4.3
+150,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹69,990",Not Available,Not Available,Not Available,Not Available,4.3
+151,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+152,DELL Inspiron Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 7420 Thin and ...,"₹40,990",Not Available,Not Available,Not Available,Not Available,4.2
+153,Lenovo Ideapad Gaming 3 Intel Core i5 11th Gen 11320H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphic...,"₹67,990",Not Available,Not Available,Not Available,Not Available,4.4
+154,Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphic...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.2
+155,HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce ...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.3
+156,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹68,071",Not Available,Not Available,Not Available,Not Available,4.4
+157,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹67,890",Not Available,Not Available,Not Available,Not Available,4.3
+158,HP VICTUS 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,"₹54,490",Not Available,Not Available,Not Available,Not Available,4.1
+159,Acer Aspire 7 Intel Core i5 12th Gen 1240P - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹60,190",Not Available,Not Available,Not Available,Not Available,4
+160,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹62,929",Not Available,Not Available,Not Available,Not Available,4
+161,HP AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0155AU Thin and Light Laptop,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+162,HP Victus Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.9
+163,HP Victus 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹82,690",Not Available,Not Available,Not Available,Not Available,3.7
+164,HP Victus Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.5
+165,HP Omen Intel Core i5 7th Gen 7300HQ - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA ...,"₹60,190",Not Available,Not Available,Not Available,Not Available,4.3
+166,HP Victus Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.4
+167,HP Victus Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+168,Lenovo LOQ Intel Core i5 12th Gen 12450HX - (12 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+169,DELL Inspiron AMD Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop T...,"₹55,990",Not Available,Not Available,Not Available,Not Available,4
+170,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹64,128",Not Available,Not Available,Not Available,Not Available,4.2
+171,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+172,Lenovo LOQ Intel Core i5 12th Gen 12450HX - (12 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.4
+173,MSI Thin 15 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹63,990",Not Available,Not Available,Not Available,Not Available,4.1
+174,Lenovo IdeaPad Slim 5 WUXGA IPS Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 16I...,"₹44,999",Not Available,Not Available,Not Available,Not Available,4.2
+175,Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home) 14IAH8 Thin and...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4
+176,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹59,989",Not Available,Not Available,Not Available,Not Available,4.3
+177,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.3
+178,HP Victus Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Pro/4 GB Graphics/NVIDIA GeForce...,"₹58,490",Not Available,Not Available,Not Available,Not Available,3.6
+179,HP Victus AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX ...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.2
+180,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹63,990",Not Available,Not Available,Not Available,Not Available,4.2
+181,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹60,990",Not Available,Not Available,Not Available,Not Available,3.6
+182,MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA G...,"₹57,999",Not Available,Not Available,Not Available,Not Available,4
+183,HP 15s Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) fy5008TU Thin and Light Laptop,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.8
+184,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹58,680",Not Available,Not Available,Not Available,Not Available,3.7
+185,ASUS TUF A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹64,490",Not Available,Not Available,Not Available,Not Available,4.3
+186,MSI Modern 15 H AI Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 H AI C1MG-04...,"₹63,490",Not Available,Not Available,Not Available,Not Available,4.2
+187,HP AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 14s-fy1005AU Thin and Light Laptop,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.5
+188,DELL Inspiron 5440 Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5440 Thi...,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.5
+189,MSI Modern 15 H AI Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 H AI C1MG-04...,"₹60,880",Not Available,Not Available,Not Available,Not Available,3.9
+190,ASUS Vivobook 16X Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) K36...,"₹61,990",Not Available,Not Available,Not Available,Not Available,4.2
+191,Acer Nitro V Intel Core i5 13th Gen 13420H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.3
+192,ASUS Vivobook 16X Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVID...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+193,ASUS TUF A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4
+194,Lenovo Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home) 83BF0043IN Thin and Light Lapt...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.3
+195,DELL Inspiron 5620 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5620 Lap...,"₹59,995",Not Available,Not Available,Not Available,Not Available,4.1
+196,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹64,999",Not Available,Not Available,Not Available,Not Available,4.3
+197,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+198,ASUS Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ544WS Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+199,MSI Cyborg 14 Intel Core i5 13th Gen 13420H - (8 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,"₹62,990",Not Available,Not Available,Not Available,Not Available,3.7
+200,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹63,280",Not Available,Not Available,Not Available,Not Available,4.5
+201,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.4
+202,Lenovo IdeaPad Flex 5 AMD AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 14ALC7 2 in...,"₹74,990",Not Available,Not Available,Not Available,Not Available,4
+203,Lenovo IdeaPad Slim 3 Backlit Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) 83EM0...,"₹46,990",Not Available,Not Available,Not Available,Not Available,4
+204,HP 15s Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0011TU Thin and Light Lap...,"₹61,753",Not Available,Not Available,Not Available,Not Available,4.2
+205,SAMSUNG Galaxy Book4 Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KG2IN / NP750XGK-...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.4
+206,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹61,000",Not Available,Not Available,Not Available,Not Available,4.6
+207,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.4
+208,HP 250 G9 Intel Core i5 12th Gen 1235U - (8 GB + 16 GB Optane/512 GB SSD/Windows 11 Home) 250 G9 Thin ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+209,HP Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) 15-hr0001TU Thin and Light Laptop,"₹64,999",Not Available,Not Available,Not Available,Not Available,4.2
+210,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹61,990",Not Available,Not Available,Not Available,Not Available,3.9
+211,HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4
+212,Lenovo Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15ITL6 Laptop,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+213,Acer Nitro 5 AMD Ryzen 5 Quad Core 3550H - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.4
+214,DELL Inspiron 14 Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5440 Thin ...,"₹82,490",Not Available,Not Available,Not Available,Not Available,4.3
+215,SAMSUNG Galaxy Book4 Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGK-KS2IN / NP750XGK-...,"₹63,999",Not Available,Not Available,Not Available,Not Available,4.6
+216,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹63,890",Not Available,Not Available,Not Available,Not Available,4.4
+217,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.4
+218,realme Book Prime Intel Core i5 11th Gen 11320H - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.5
+219,DELL Inspiron 15 5000 Intel Core i5 8th Gen 8250U - (8 GB/2 TB HDD/Windows 10 Home/2 GB Graphics) 5570...,"₹64,990",Not Available,Not Available,Not Available,Not Available,3.3
+220,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹64,990",Not Available,Not Available,Not Available,Not Available,3.7
+221,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹60,999",Not Available,Not Available,Not Available,Not Available,4.5
+222,MSI GL Series Intel Core i5 8th Gen 8300H - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForc...,"₹61,990",Not Available,Not Available,Not Available,Not Available,4.3
+223,Lenovo IdeaPad Flex 5 AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 14 ALC 05 2 in 1...,"₹64,990",Not Available,Not Available,Not Available,Not Available,3.8
+224,Lenovo Thinkpad E series Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/DOS) TPE14G4 Business Laptop,"₹63,690",Not Available,Not Available,Not Available,Not Available,3.8
+225,DELL Inspiron Intel Core i5 10th Gen 1035G1 - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) INS 5408...,"₹60,500",Not Available,Not Available,Not Available,Not Available,4
+226,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.2
+227,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹67,250",Not Available,Not Available,Not Available,Not Available,4.2
+228,MSI Modern 15 H Intel Core i7 13th Gen 13700H - (16 GB/1 TB SSD/Windows 11 Home) Modern 15 H C13M Busi...,"₹69,500",Not Available,Not Available,Not Available,Not Available,4.1
+229,Acer Gaming AMD Ryzen 5 Hexa Core 6600H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹65,200",Not Available,Not Available,Not Available,Not Available,4.2
+230,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) ZEB-NBC 4S Thi...,"₹66,990",Not Available,Not Available,Not Available,Not Available,4.1
+231,ASUS Vivobook 15 Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ544WS Th...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+232,Acer Aspire 5 Gaming Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NV...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+233,ASUS VivoBook K15 OLED AMD Ryzen 5 Hexa Core AMD R5-5500U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA...,"₹64,900",Not Available,Not Available,Not Available,Not Available,4.7
+234,HP Victus 16 Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹62,936",Not Available,Not Available,Not Available,Not Available,4.3
+235,ASUS ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 10th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 11 H...,"₹62,890",Not Available,Not Available,Not Available,Not Available,4.2
+236,HP Pavilion x360 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-ek0078TU Thin an...,"₹59,755",Not Available,Not Available,Not Available,Not Available,3.3
+237,HP Pavilion Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 14-ek0086TU Thin and Ligh...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+238,HP Pavilion Intel Core i5 10th Gen 10300H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NV...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+239,ASUS Intel Core i5 13th Gen - (16 GB/512 GB SSD/Windows 11 Home) K3504VA-LK542WS Laptop,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.4
+240,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.3
+241,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹17,990",Not Available,Not Available,Not Available,Not Available,3.7
+242,ASUS Intel Core i5 13th Gen - (16 GB/512 GB SSD/Windows 11 Home) X1605VA-MB546WS Laptop,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.5
+243,MSI GF63 Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,"₹64,771",Not Available,Not Available,Not Available,Not Available,5
+244,Vaio SE Series Intel Core i5 8th Gen 8265U - (8 GB/512 GB SSD/Windows 10 Home) NP14V1IN004P Thin and L...,"₹61,990",Not Available,Not Available,Not Available,Not Available,3.8
+245,HP Intel Core i5 12th Gen 1240P - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq5007tu Thin and Light Laptop,"₹63,890",Not Available,Not Available,Not Available,Not Available,4
+246,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹61,990",Not Available,Not Available,Not Available,Not Available,4.2
+247,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.5
+248,Infinix X2 Slim Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB SSD/Windows 11 Home) XL23 Thin and Light...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+249,MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹72,331",Not Available,Not Available,Not Available,Not Available,4.1
+250,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.2
+251,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4
+252,DELL Vostro Intel Core i5 11th Gen i5-1135G7 - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Vostro 3400 ...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.2
+253,Acer ALG Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForc...,"₹62,999",Not Available,Not Available,Not Available,Not Available,4.7
+254,MSI Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX...,"₹60,407",Not Available,Not Available,Not Available,Not Available,4.3
+255,Acer Aspire 5 Intel Core i5 8th Gen 8265U - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) A515-52G Thi...,"₹52,990",Not Available,Not Available,Not Available,Not Available,4.1
+256,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹61,990",Not Available,Not Available,Not Available,Not Available,2.8
+257,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹15,990",Not Available,Not Available,Not Available,Not Available,2.3
+258,HP Intel Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14s - dy5005TU Thin and Lig...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+259,ASUS AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX...,"₹61,000",Not Available,Not Available,Not Available,Not Available,4.2
+260,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹62,499",Not Available,Not Available,Not Available,Not Available,4
+261,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,3.7
+262,Lenovo IdeaPad Slim 5i Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.5
+263,Acer Nitro 5 Intel Core i5 7th Gen 7300HQ - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics/NVIDIA GeForc...,"₹64,990",Not Available,Not Available,Not Available,Not Available,4.3
+264,Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics...,"₹63,990",Not Available,Not Available,Not Available,Not Available,4.2
+265,ASUS Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) K3605ZF-MBN546WS Laptop,"₹57,990",Not Available,Not Available,Not Available,Not Available,4.2
+266,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹50,990",Not Available,Not Available,Not Available,Not Available,4.2
+267,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4
+268,Lenovo Intel Core i7 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 82H803B6IN Thin and Light Laptop,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+269,DELL Inspiron Intel Core i5 11th Gen 11300H - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 551...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+270,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+271,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹64,340",Not Available,Not Available,Not Available,Not Available,4.1
+272,HP Pavilion Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 10 Home) 14-dv0054TU Thin and Li...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.2
+273,Lenovo Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 205...,"₹60,990",Not Available,Not Available,Not Available,Not Available,4.3
+274,DELL Intel Core i3 13th Gen - (8 GB/1 TB SSD/Windows 11 Home) IC7430XYW6F002ORS1 Thin and Light Laptop,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.1
+275,Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11320H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.1
+276,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.2
+277,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.7
+278,HP Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0315TU Thin and Light Laptop,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+279,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4
+280,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹52,990",Not Available,Not Available,Not Available,Not Available,4.2
+281,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹51,890",Not Available,Not Available,Not Available,Not Available,4.3
+282,Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen Integrated Intel Iris Xe Graphics - (16 GB/512 GB SSD/Win...,"₹59,990",Not Available,Not Available,Not Available,Not Available,3.7
+283,Lenovo Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) V15 G3 IAP Thin and Light Lap...,"₹57,990",Not Available,Not Available,Not Available,Not Available,4.3
+284,ASUS Intel Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX305...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+285,ASUS Intel Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 4GB N...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+286,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹48,700",Not Available,Not Available,Not Available,Not Available,3.7
+287,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.5
+288,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+289,MSI Thin 15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.1
+290,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹51,999",Not Available,Not Available,Not Available,Not Available,4
+291,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹47,890",Not Available,Not Available,Not Available,Not Available,4.2
+292,MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹46,990",Not Available,Not Available,Not Available,Not Available,4.3
+293,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Hom...","₹51,999",Not Available,Not Available,Not Available,Not Available,4.3
+294,"ASUS Vivobook 16X for Creator, Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB ...","₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+295,Colorful P15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+296,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹51,200",Not Available,Not Available,Not Available,Not Available,4.7
+297,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹53,850",Not Available,Not Available,Not Available,Not Available,4.2
+298,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin an...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.5
+299,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 14IAH8 Thin a...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.4
+300,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹53,989",Not Available,Not Available,Not Available,Not Available,4.3
+301,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹58,990",Not Available,Not Available,Not Available,Not Available,4.1
+302,Lenovo IdeaPad Slim 3 Backlit Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 15IAH...,"₹56,990",Not Available,Not Available,Not Available,Not Available,4.3
+303,"DELL Inspiron 15 3520 with Backlit Keyboard, Intel Core i5 12th Gen Core i5 - (16 GB/512 GB SSD/Window...","₹59,990",Not Available,Not Available,Not Available,Not Available,3
+304,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Hom...","₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+305,Lenovo Ideapad Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 15IAH8...,"₹99,990",Not Available,Not Available,Not Available,Not Available,1.3
+306,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹53,302",Not Available,Not Available,Not Available,Not Available,3.7
+307,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.2
+308,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) 15IAH8 Thin a...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+309,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Ho...","₹46,490",Not Available,Not Available,Not Available,Not Available,4.5
+310,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹56,990",Not Available,Not Available,Not Available,Not Available,4
+311,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹58,900",Not Available,Not Available,Not Available,Not Available,4.2
+312,ASUS Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) X1605ZAC-MB540WS Thin and Ligh...,"₹59,839",Not Available,Not Available,Not Available,Not Available,3.8
+313,ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (8 GB/1 TB SSD/Windows 11 Home...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.6
+314,ASUS TUF Gaming F17 Intel Core i5 11th Gen 11400H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+315,Acer Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.1
+316,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹55,990",Not Available,Not Available,Not Available,Not Available,4.5
+317,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹50,490",Not Available,Not Available,Not Available,Not Available,4.2
+318,HP 15s Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0021TU Thin and Light Lap...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.7
+319,MSI Modern 15 Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B13M-288IN T...,"₹17,990",Not Available,Not Available,Not Available,Not Available,3.7
+320,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹47,899",Not Available,Not Available,Not Available,Not Available,3.8
+321,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹48,990",Not Available,Not Available,Not Available,Not Available,4.3
+322,HP Pavilion AMD Ryzen 5 Hexa Core 5500U - (16 GB/1 TB SSD/Windows 11 Home) 15-eh1047AU Thin and Light ...,"₹55,946",Not Available,Not Available,Not Available,Not Available,4.3
+323,HP Victus AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,"₹57,890",Not Available,Not Available,Not Available,Not Available,4.1
+324,DELL Inspiron Intel Core i3 11th Gen 1115G4 - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.5
+325,MSI Cyborg 14 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4
+326,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹55,946",Not Available,Not Available,Not Available,Not Available,4.3
+327,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹49,150",Not Available,Not Available,Not Available,Not Available,4.3
+328,MSI GF63 Thin Intel Core i5 9th Gen 9300H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.4
+329,HP 250 G9 Intel Core i5 12th Gen 12th Generation Intel Core i5-1235U Processor - (8 GB/512 GB SSD/Wind...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+330,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹55,490",Not Available,Not Available,Not Available,Not Available,3.7
+331,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹51,200",Not Available,Not Available,Not Available,Not Available,3.7
+332,HP 15s Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB SSD/Windows 11 Home) 15s-fr4001TU Thin and Light ...,"₹52,990",Not Available,Not Available,Not Available,Not Available,3.9
+333,DELL Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light Lapto...,"₹38,990",Not Available,Not Available,Not Available,Not Available,4.2
+334,HP Pavilion AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 14-ec0000AX...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.7
+335,HP Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0316TU Thin and Light Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.3
+336,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹56,990",Not Available,Not Available,Not Available,Not Available,4.2
+337,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹56,990",Not Available,Not Available,Not Available,Not Available,4.1
+338,HP Pavilion AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 14-ec0000AX...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.1
+339,HP Intel Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) 15S-FY5009TU Thin and Light Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+340,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.3
+341,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹41,690",Not Available,Not Available,Not Available,Not Available,4.2
+342,DELL Vostro 3530 Intel Core i5 1334U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light L...,"₹58,890",Not Available,Not Available,Not Available,Not Available,4.4
+343,HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6...,"₹58,490",Not Available,Not Available,Not Available,Not Available,4.7
+344,DELL Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 Thin and Light Lapt...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+345,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0129TU Thin and Light ...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,3.9
+346,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹49,000",Not Available,Not Available,Not Available,Not Available,4.1
+347,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹46,900",Not Available,Not Available,Not Available,Not Available,4.3
+348,Acer ALG Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForc...,"₹46,890",Not Available,Not Available,Not Available,Not Available,4.8
+349,MSI Cyborg 14 Intel Core i5 13th Gen 13420H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,"₹55,990",Not Available,Not Available,Not Available,Not Available,5
+350,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹74,990",Not Available,Not Available,Not Available,Not Available,5
+351,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+352,HP Pavilion 15 AMD Ryzen 5 Hexa Core 13th Gen AMD Ryzen™ 5 5625U - (8 GB/512 GB SSD/Windows 11 Home) 1...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.2
+353,ASUS X1502ZA Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ532WS Laptop,"₹49,999",Not Available,Not Available,Not Available,Not Available,3.3
+354,Lenovo Intel Core i5 13th Gen - (16 GB/512 GB SSD/Windows 11 Pro) TB 15 G6 Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+355,DELL Inspiron 3530 Intel Core i5 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Lig...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+356,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹57,990",Not Available,Not Available,Not Available,Not Available,5
+357,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹56,799",Not Available,Not Available,Not Available,Not Available,4.7
+358,DELL Inspiron Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Home) INSPIRON 3511 Thin an...,"₹58,500",Not Available,Not Available,Not Available,Not Available,4.3
+359,HP Intel Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 10 Home) 14s- DQ2535TU Thin and Ligh...,"₹56,490",Not Available,Not Available,Not Available,Not Available,4.2
+360,HP 15s Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5111TU Thin and Light La...,"₹46,490",Not Available,Not Available,Not Available,Not Available,3.7
+361,HP 15s AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0031AU Thin and Light Lap...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+362,MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹58,990",Not Available,Not Available,Not Available,Not Available,3.8
+363,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹53,999",Not Available,Not Available,Not Available,Not Available,4.5
+364,Acer Aspire Vero Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/Windows 11 Home) AV15-51 Thin and Li...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4
+365,Lenovo ThinkBook 15 G3 AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) Thinkbook 15 G3...,"₹73,990",Not Available,Not Available,Not Available,Not Available,3.9
+366,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹57,700",Not Available,Not Available,Not Available,Not Available,4.4
+367,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹56,340",Not Available,Not Available,Not Available,Not Available,3.6
+368,Infinix Intel Core i7 11th Gen 1195G7 - (16 GB/1 TB SSD/Windows 11 Home) INBook X2 Plus Core i7 Thin a...,"₹51,500",Not Available,Not Available,Not Available,Not Available,4.3
+369,HP Pavilion Intel Core i3 11th Gen 1125G4 - (8 GB/512 GB SSD/Windows 11 Home) 14-dy0207TU Thin and Lig...,"₹50,190",Not Available,Not Available,Not Available,Not Available,4.2
+370,HP 15s Intel Core i5 11th Gen 1135G7 - (8 GB/1 TB HDD/Windows 11 Home/2 GB Graphics) 15s-du3060TX Thin...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+371,MSI Modern 14 Intel Core i5 10th Gen 10210U - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-220IN ...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.3
+372,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹57,590",Not Available,Not Available,Not Available,Not Available,3.8
+373,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹54,990",Not Available,Not Available,Not Available,Not Available,4.7
+374,Lenovo IdeaPad Slim 5 Intel Core i5 11th Gen 1135G7 - (16 GB/512 GB SSD/Windows 11 Home) IdeaPad 5 15I...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+375,DELL Vostro 3420 Business Laptop Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 3420 Busin...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+376,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹51,687",Not Available,Not Available,Not Available,Not Available,4.2
+377,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4
+378,ASUS Vivobook 16X AMD Ryzen 7 Octa Core 5800HS - (16 GB/512 GB SSD/Windows 11 Home) M1603QA-MB712WS No...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.1
+379,DELL Vostro Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+380,Lenovo IdeaPad Gaming 3 Intel Intel Core i5 11th Gen 11300H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Gr...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+381,Lenovo ThinkBook 15 G4 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) TB15 G4 IAP Th...,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.3
+382,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹56,068",Not Available,Not Available,Not Available,Not Available,3.7
+383,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.5
+384,Acer Nitro 5 AMD Ryzen 5 Hexa Core 7535HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹73,990",Not Available,Not Available,Not Available,Not Available,2.4
+385,Acer AMD Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 10) NX.A84SI.002 Thin and Light Laptop,"₹59,990",Not Available,Not Available,Not Available,Not Available,4.2
+386,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹56,990",Not Available,Not Available,Not Available,Not Available,4.2
+387,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.3
+388,HP Probook Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro) 440 G8 Notebook,"₹43,990",Not Available,Not Available,Not Available,Not Available,4
+389,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0111TU Thin and Light Laptop,"₹47,990",Not Available,Not Available,Not Available,Not Available,4.2
+390,HP Laptop Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5329TU Thin and Light...,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.2
+391,"Acer Aspire Lite with Backlit Keyboard, Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home...","₹49,990",Not Available,Not Available,Not Available,Not Available,4.1
+392,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.2
+393,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+394,HP Intel Core i5 12th Gen 1235U - (8 GB/1 TB SSD/Windows 11 Home) 15s-fq5331TU Thin and Light Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.3
+395,HP (2024) Laptop with Backlit Keyboard Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home...,"₹47,990",Not Available,Not Available,Not Available,Not Available,4.4
+396,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹36,990",Not Available,Not Available,Not Available,Not Available,4.1
+397,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.7
+398,HP Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5202TU Thin and Light Laptop,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+399,ASUS Intel Core i5 13th Gen - (8 GB/512 GB SSD/Windows 11 Home) X1504VA-NJ522WS Laptop,"₹38,241",Not Available,Not Available,Not Available,Not Available,4.6
+400,ASUS TUF Gaming F15 Intel Core i5 10th Gen 10300H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVI...,"₹1,05,990",Not Available,Not Available,Not Available,Not Available,4.3
+401,HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce ...,"₹47,990",Not Available,Not Available,Not Available,Not Available,3.9
+402,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹31,990",Not Available,Not Available,Not Available,Not Available,4.3
+403,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,3.8
+404,MSI Claw A1M AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home/Intel Integrated Arc Grap...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+405,MSI Claw A1M AI PC Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated Arc Gr...,"₹46,990",Not Available,Not Available,Not Available,Not Available,3.7
+406,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,990",Not Available,Not Available,Not Available,Not Available,4.5
+407,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+408,Lenovo Lenovo V15 G3 IAP Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) 82TTA073IN ...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+409,DELL Vostro 3520 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Thin and...,"₹36,441",Not Available,Not Available,Not Available,Not Available,4
+410,DELL Vostro 3520 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Thin an...,"₹37,300",Not Available,Not Available,Not Available,Not Available,4.2
+411,ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ527WS|X150...,"₹25,590",Not Available,Not Available,Not Available,Not Available,4.2
+412,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹83,990",Not Available,Not Available,Not Available,Not Available,4.7
+413,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+414,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 H...","₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+415,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ342WS Thi...,"₹41,990",Not Available,Not Available,Not Available,Not Available,4.7
+416,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹31,490",Not Available,Not Available,Not Available,Not Available,4.2
+417,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+418,Lenovo Lenovo V15 G3 IAP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 82TTA07RIH ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+419,Apple MacBook Air Apple M3 - (8 GB/512 GB SSD/macOS Sonoma) MRYT3HN/A,"₹36,441",Not Available,Not Available,Not Available,Not Available,4.1
+420,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 H...","₹37,300",Not Available,Not Available,Not Available,Not Available,4.3
+421,Acer Aspire 3 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) A324-53 Thin and Light ...,"₹83,990",Not Available,Not Available,Not Available,Not Available,4.5
+422,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹27,480",Not Available,Not Available,Not Available,Not Available,4.2
+423,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+424,Acer Aspire 3 Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) A324-51 Thin and Light L...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.7
+425,Acer Aspire 3 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light...,"₹86,990",Not Available,Not Available,Not Available,Not Available,3.7
+426,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹31,990",Not Available,Not Available,Not Available,Not Available,4.5
+427,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+428,Lenovo Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) G3 IAP Thin and Light Laptop,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+429,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ132WS | ...,"₹14,990",Not Available,Not Available,Not Available,Not Available,4
+430,HP 255 G10 (2024) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 250 G10 Thin and Lig...,"₹38,190",Not Available,Not Available,Not Available,Not Available,4.2
+431,Apple MacBook AIR Apple M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLY43HN/A,"₹82,990",Not Available,Not Available,Not Available,Not Available,4.5
+432,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹24,990",Not Available,Not Available,Not Available,Not Available,4.2
+433,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.7
+434,Acer Aspire 3 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.2
+435,HP 15s AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0026AU Thin and Light Lapt...,"₹19,990",Not Available,Not Available,Not Available,Not Available,4.1
+436,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹75,990",Not Available,Not Available,Not Available,Not Available,4.2
+437,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.7
+438,Lenovo Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) G3 IAP Thin and Light Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+439,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ132WS | ...,"₹31,990",Not Available,Not Available,Not Available,Not Available,4.7
+440,Apple MacBook AIR Apple M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLY43HN/A,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+441,Lenovo V15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) V15 G4 AMN 1 Thin and Light...,"₹42,549",Not Available,Not Available,Not Available,Not Available,4.1
+442,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹95,990",Not Available,Not Available,Not Available,Not Available,4.2
+443,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.7
+444,Apple MacBook AIR Apple M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLXX3HN/A,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+445,ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ321WS Th...,"₹46,990",Not Available,Not Available,Not Available,Not Available,4.3
+446,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹1,74,900",Not Available,Not Available,Not Available,Not Available,3.9
+447,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.7
+448,Primebook S Wifi MediaTek MT8183 - (4 GB/128 GB EMMC Storage/Prime OS) PB S Wifi Thin and Light Laptop,"₹41,000",Not Available,Not Available,Not Available,Not Available,3.7
+449,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and...,"₹45,799",Not Available,Not Available,Not Available,Not Available,4.5
+450,Apple MacBook AIR Apple M2 - (16 GB/256 GB SSD/macOS Sequoia) MC7U4HN/A,"₹32,990",Not Available,Not Available,Not Available,Not Available,4.3
+451,Lenovo V15 Series AMD Athlon Dual Core 7120U - (8 GB/512 GB SSD/Windows 11 Home) V15 Thin and Light La...,"₹28,990",Not Available,Not Available,Not Available,Not Available,3.8
+452,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹22,990",Not Available,Not Available,Not Available,Not Available,4.2
+453,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.7
+454,Acer Aspire 3 Intel Celeron Dual Core - (8 GB/512 GB SSD/Windows 11 Home) A311-45 Thin and Light Lapto...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4
+455,Apple MacBook AIR Apple M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.2
+456,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹37,990",Not Available,Not Available,Not Available,Not Available,4.3
+457,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.1
+458,ASUS X1504ZA Intel Core i3 12th Gen 12th Gen Intel Core i3-1215U - (8 GB/512 GB SSD/Windows 11 Home) X...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.2
+459,ASUS Chromebook Intel Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS) CX1500CKA-NJ0413 ...,"₹74,990",Not Available,Not Available,Not Available,Not Available,4.3
+460,ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ521WS|X150...,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.1
+461,Apple MacBook Air Apple M3 - (8 GB/256 GB SSD/macOS Sonoma) MRYR3HN/A,"₹37,990",Not Available,Not Available,Not Available,Not Available,3.9
+462,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹74,990",Not Available,Not Available,Not Available,Not Available,4.7
+463,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+464,Acer Swift Go 14 AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) SFG14-41 Thin and Li...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+465,Apple MacBook Air Apple M3 - (16 GB/1 TB SSD/macOS Sonoma) MXCR3HN/A,"₹49,990",Not Available,Not Available,Not Available,Not Available,4
+466,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹46,990",Not Available,Not Available,Not Available,Not Available,4.3
+467,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+468,ASUS Vivobook 15 Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) X1504VA-NJ524WS Thin...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+469,ASUS ExpertBook B14 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) B1402CBA-NK1494WS...,"₹1,22,990",Not Available,Not Available,Not Available,Not Available,4
+470,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U - (16 GB/512 GB SSD/Windows 11 Home) A325-42 Thin and Light ...,"₹26,890",Not Available,Not Available,Not Available,Not Available,4.3
+471,Acer Aspire 3 Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) A324-45 Thin and Light...,"₹36,990",Not Available,Not Available,Not Available,Not Available,3.7
+472,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4.5
+473,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.3
+474,Acer Swift Go 14 AMD Ryzen 7 Octa Core 7730U - (16 GB/1 TB SSD/Windows 11 Home) SFG14-41 Thin and Ligh...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+475,ASUS Vivobook 15 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) X1504VA-NJ323WS Thin...,"₹1,05,990",Not Available,Not Available,Not Available,Not Available,4
+476,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹82,990",Not Available,Not Available,Not Available,Not Available,4.2
+477,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4
+478,HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...,"₹73,990",Not Available,Not Available,Not Available,Not Available,3.7
+479,"Acer Aspire Lite with Backlit Keyboard, Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Ho...","₹1,34,900",Not Available,Not Available,Not Available,Not Available,4
+480,ASUS Vivobook 15 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) X1504VA-NJ323WS Thin...,"₹98,990",Not Available,Not Available,Not Available,Not Available,4.1
+481,HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...,"₹51,590",Not Available,Not Available,Not Available,Not Available,4.1
+482,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹48,990",Not Available,Not Available,Not Available,Not Available,4.2
+483,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.7
+484,"Acer Aspire Lite with Backlit Keyboard, Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Ho...","₹43,990",Not Available,Not Available,Not Available,Not Available,4.7
+485,Acer Aspire Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home) AL15-52H Thin and Light...,"₹38,990",Not Available,Not Available,Not Available,Not Available,4.7
+486,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹45,990",Not Available,Not Available,Not Available,Not Available,4.3
+487,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.7
+488,Apple Apple M3 - (16 GB/256 GB SSD/macOS Sequoia) MC9F4HN/A,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.7
+489,Lenovo V15 AMD Ryzen 3 Quad Core 7th Gen 7320U - (8 GB/512 GB SSD/Windows 11 Home/1 GB Graphics) V15 G...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.3
+490,Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U - (16 GB/1 TB SSD/Windows 11 Home) AL15-41 Thin and Light...,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.3
+491,"Acer Aspire 3 with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/1 TB SSD/Windows 11 Home) A...","₹40,990",Not Available,Not Available,Not Available,Not Available,4.3
+492,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹33,490",Not Available,Not Available,Not Available,Not Available,4.1
+493,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.1
+494,Apple Apple M3 - (16 GB/256 GB SSD/macOS Sequoia) MC8J4HN/A,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+495,Apple MacBook AIR Apple M2 - (16 GB/256 GB SSD/macOS Sequoia) MC7X4HN/A,"₹44,990",Not Available,Not Available,Not Available,Not Available,4.5
+496,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.1
+497,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.3
+498,Apple MacBook Air Apple M3 - (16 GB/512 GB SSD/macOS Sonoma) MXCV3HN/A,"₹40,990",Not Available,Not Available,Not Available,Not Available,4
+499,Apple MacBook Air Apple M3 - (8 GB/512 GB SSD/macOS Sonoma) MRXW3HN/A,"₹13,990",Not Available,Not Available,Not Available,Not Available,4.2
+500,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home) 15IAH8 Thin an...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4.7
+501,MSI Thin 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4
+502,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹44,990",Not Available,Not Available,Not Available,Not Available,3.8
+503,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+504,Acer Aspire 3 Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin an...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+505,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Ho...","₹82,990",Not Available,Not Available,Not Available,Not Available,3.7
+506,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹71,490",Not Available,Not Available,Not Available,Not Available,4
+507,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.3
+508,Acer Aspire 3 Backlit Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) A324-51 Thin a...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+509,DELL 15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3535 Thin and Light L...,"₹31,499",Not Available,Not Available,Not Available,Not Available,4.3
+510,Acer Aspire Lite AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Lig...,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.2
+511,HP AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 14-em0025AU Thin and Light Laptop,"₹34,499",Not Available,Not Available,Not Available,Not Available,4.7
+512,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹44,990",Not Available,Not Available,Not Available,Not Available,3.8
+513,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+514,DELL Vostro 3520 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Thin and...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+515,MSI Thin 15 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4
+516,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹37,280",Not Available,Not Available,Not Available,Not Available,4.3
+517,HP AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0155AU Thin and Light Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.4
+518,Thomson Intel Celeron Dual Core N4020 - (4 GB/128 GB SSD/Windows 11 Home) IN-N15V2C Thin and Light Lap...,"₹46,490",Not Available,Not Available,Not Available,Not Available,3.7
+519,Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U - (16 GB/1 TB SSD/Windows 11 Home) A325-42 Thin and ...,"₹32,990",Not Available,Not Available,Not Available,Not Available,4.5
+520,"Acer Aspire Lite with Backlit Keyboard, Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Ho...","₹80,990",Not Available,Not Available,Not Available,Not Available,4.4
+521,Acer Aspire Intel Core i5 12th Gen 12450H - (12 GB/512 GB SSD/Windows 11 Home) AL15-52H Thin and Light...,"₹52,990",Not Available,Not Available,Not Available,Not Available,4.2
+522,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4
+523,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+524,Apple MacBook AIR Apple M2 - (16 GB/256 GB SSD/macOS Sequoia) MC7V4HN/A,"₹41,000",Not Available,Not Available,Not Available,Not Available,4
+525,MSI Thin 15 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...,"₹1,04,990",Not Available,Not Available,Not Available,Not Available,4.5
+526,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹39,990",Not Available,Not Available,Not Available,Not Available,4.2
+527,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+528,MSI Modern 15 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO-613IN T...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.1
+529,Acer Aspire Intel Core i3 13th Gen 1305U - (16 GB/512 GB SSD/Windows 11 Home) AL15-53 Notebook,"₹36,990",Not Available,Not Available,Not Available,Not Available,4.2
+530,MSI Modern 15 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO-612IN ...,"₹38,990",Not Available,Not Available,Not Available,Not Available,4.3
+531,ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-LK522...,"₹50,990",Not Available,Not Available,Not Available,Not Available,3.7
+532,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.7
+533,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.3
+534,ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-LK523...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.4
+535,DELL Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light Lap...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4
+536,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹31,490",Not Available,Not Available,Not Available,Not Available,5
+537,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+538,Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Ligh...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+539,Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS - (24 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹31,490",Not Available,Not Available,Not Available,Not Available,4.5
+540,MSI Modern 15 Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) Modern 15 B12MO-815IN Th...,"₹39,990",Not Available,Not Available,Not Available,Not Available,4.4
+541,Infinix GT Book Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA...,"₹51,990",Not Available,Not Available,Not Available,Not Available,4
+542,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹28,990",Not Available,Not Available,Not Available,Not Available,4.7
+543,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4
+544,Lenovo IdeaPad Pro 5 2.8K OLED AI PC Intel Core Ultra 9 185H - (32 GB/1 TB SSD/Windows 11 Home) 14IMH9...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.4
+545,Acer Aspire Lite Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin and Lig...,"₹50,990",Not Available,Not Available,Not Available,Not Available,4.4
+546,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹36,599",Not Available,Not Available,Not Available,Not Available,4.4
+547,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹40,990",Not Available,Not Available,Not Available,Not Available,4.3
+548,MSI Modern 15 AMD Ryzen 5 Hexa Core 7530U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B7M-072IN Thin...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.3
+549,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN7 Thin and ...,"₹35,700",Not Available,Not Available,Not Available,Not Available,4.2
+550,MSI Modern 14 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO Busine...,"₹81,990",Not Available,Not Available,Not Available,Not Available,4.1
+551,Infinix GT Book Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA...,"₹1,89,990",Not Available,Not Available,Not Available,Not Available,4.2
+552,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹50,990",Not Available,Not Available,Not Available,Not Available,4.3
+553,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4
+554,ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-LK521...,"₹1,19,990",Not Available,Not Available,Not Available,Not Available,4.1
+555,DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Pro) Latitude 344...,"₹29,299",Not Available,Not Available,Not Available,Not Available,4.2
+556,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹52,990",Not Available,Not Available,Not Available,Not Available,4.3
+557,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+558,DELL Latitude 3540 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Pro) Latitude 354...,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.7
+559,MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN...,"₹1,84,990",Not Available,Not Available,Not Available,Not Available,4.5
+560,ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-LK54...,"₹72,990",Not Available,Not Available,Not Available,Not Available,4.3
+561,MSI Modern 14 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO Busines...,"₹50,990",Not Available,Not Available,Not Available,Not Available,4.3
+562,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹70,990",Not Available,Not Available,Not Available,Not Available,4.4
+563,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4
+564,ASUS Vivobook 15 Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) X1504VAP-NJ541WS Thin and Ligh...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+565,Lenovo V14 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) V14 ITL G2 Thin and Light ...,"₹12,990",Not Available,Not Available,Not Available,Not Available,3.7
+566,HP AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0155AU Thin and Light Laptop,"₹31,490",Not Available,Not Available,Not Available,Not Available,3.9
+567,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+568,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ACL6 | 15ALC7 ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+569,Acer Nitro V AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹47,990",Not Available,Not Available,Not Available,Not Available,4.3
+570,Acer Predator Helios 16 Intel Core i9 14th Gen 14900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,"₹29,990",Not Available,Not Available,Not Available,Not Available,4.2
+571,ASUS Vivobook 15X Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) K3504VAB-NJ541WS T...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+572,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹30,999",Not Available,Not Available,Not Available,Not Available,4.1
+573,MSI Katana 15 Intel Core i9 13th Gen 13900H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeF...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.7
+574,HP 15 (2024) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0154AU Thin and Ligh...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+575,MSI Thin 15 Intel Core i5 12th Gen 13420H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹74,990",Not Available,Not Available,Not Available,Not Available,4.2
+576,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹75,990",Not Available,Not Available,Not Available,Not Available,4.3
+577,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.7
+578,Acer Predator Helios 16 Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.7
+579,Lenovo LOQ Intel Core i5 13th Gen 13450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹54,990",Not Available,Not Available,Not Available,Not Available,4.7
+580,ASUS TUF Gaming F17 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (16 GB/512 GB SSD/Windows 11 H...,"₹1,39,988",Not Available,Not Available,Not Available,Not Available,3.7
+581,Lenovo Yoga Slim 6 WUXGA OLED Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) 14IRH...,"₹95,990",Not Available,Not Available,Not Available,Not Available,4.2
+582,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹1,05,990",Not Available,Not Available,Not Available,Not Available,4.2
+583,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.7
+584,walker Intel Celeron Dual Core N4020 - (4 GB/128 GB SSD/Windows 11 Home) NU14A1 Thin and Light Laptop,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.5
+585,Lenovo V15 Series AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) V15 Thin and Light L...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4
+586,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹85,990",Not Available,Not Available,Not Available,Not Available,3.9
+587,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+588,Colorful XS Series Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+589,Infinix Y4 Max Series Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) YL613 Thin and ...,"₹36,990",Not Available,Not Available,Not Available,Not Available,4.2
+590,Lenovo LOQ Intel Core i7 13th Gen 13650HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹33,490",Not Available,Not Available,Not Available,Not Available,4.2
+591,DELL Latitude 3540 Intel Core i3 12th Gen - (8 GB/512 GB SSD/Ubuntu) Latitude 3540 Laptop,"₹31,889",Not Available,Not Available,Not Available,Not Available,4.1
+592,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹29,480",Not Available,Not Available,Not Available,Not Available,4
+593,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.7
+594,MSI Thin 15 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+595,HP Victus Intel Core i7 12th Gen 12650H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.7
+596,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹1,05,990",Not Available,Not Available,Not Available,Not Available,4.1
+597,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+598,MSI Modern 15 Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B12MO Busine...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4
+599,ASUS TUF Gaming F15 Intel Core i7 12th Gen 12700H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVID...,"₹85,990",Not Available,Not Available,Not Available,Not Available,3.9
+600,Apple MacBook Air Apple M3 - (8 GB/256 GB SSD/macOS Sonoma) MRYM3HN/A,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.3
+601,Apple Apple M3 - (16 GB/256 GB SSD/macOS Sequoia) MC8G4HN/A,"₹23,500",Not Available,Not Available,Not Available,Not Available,4.3
+602,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹34,990",Not Available,Not Available,Not Available,Not Available,4
+603,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.1
+604,ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ545WS Thi...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,3.7
+605,Apple MacBook AIR Apple M2 - (8 GB/512 GB SSD/Mac OS Monterey) MLY23HN/A,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.2
+606,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹85,990",Not Available,Not Available,Not Available,Not Available,4.7
+607,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.1
+608,ASUS Vivobook 14 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) X1404VA-NK322WS Thin...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.7
+609,HP Laptop Intel Core i3 N305 - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0123TU Thin and Light Laptop,"₹1,34,900",Not Available,Not Available,Not Available,Not Available,3.9
+610,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1404FA-NK325WS Th...,"₹21,990",Not Available,Not Available,Not Available,Not Available,4.5
+611,Acer Aspire 3 Intel Core i3 12th Gen - (8 GB/512 GB SSD/Windows 11 Home) A315-59 Thin and Light Laptop,"₹98,990",Not Available,Not Available,Not Available,Not Available,4
+612,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹36,990",Not Available,Not Available,Not Available,Not Available,4.2
+613,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.9
+614,HP G8 Intel Core i3 12th Gen 12 gen - (16 GB/512 GB SSD/Windows 11 Pro) 250G8 Business Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+615,Apple MacBook Air Apple M3 - (8 GB/512 GB SSD/macOS Sonoma) MRYQ3HN/A,"₹36,490",Not Available,Not Available,Not Available,Not Available,4.1
+616,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹34,990",Not Available,Not Available,Not Available,Not Available,4.2
+617,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+618,ASUS TUF Gaming A15 with 90WHr Battery AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Hom...,"₹17,990",Not Available,Not Available,Not Available,Not Available,3.8
+619,Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and Ligh...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.7
+620,HP AMD Athlon Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 255 Laptop,"₹32,990",Not Available,Not Available,Not Available,Not Available,4.2
+621,HP 245 G8 AMD Ryzen 5 Quad Core 3500u - (8 GB/512 GB SSD/Windows 11 Home) 245 G8 Business Laptop,"₹23,650",Not Available,Not Available,Not Available,Not Available,4.7
+622,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹1,05,990",Not Available,Not Available,Not Available,Not Available,4
+623,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+624,HP G8 Intel Core i3 12th Gen 12 gen - (16 GB/512 GB SSD/Windows 11 Pro) 250G8 Business Laptop,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+625,ASUS TUF Gaming A15 with 90WHr Battery AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Hom...,"₹26,990",Not Available,Not Available,Not Available,Not Available,4.3
+626,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹36,499",Not Available,Not Available,Not Available,Not Available,4.3
+627,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,3.6
+628,Apple MacBook Air Apple M3 - (16 GB/512 GB SSD/macOS Sonoma) MXCT3HN/A,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.2
+629,Ultimus Neo Intel Core i3 10th Gen 1035G4 - (8 GB/256 GB SSD/Windows 11 Home) NU14U3INT54BN-SG Thin an...,"₹42,990",Not Available,Not Available,Not Available,Not Available,3.7
+630,Apple MacBook Air Apple M3 - (8 GB/512 GB SSD/macOS Sonoma) MRXR3HN/A,"₹32,499",Not Available,Not Available,Not Available,Not Available,4.2
+631,ASUS Vivobook 14 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) X1404VA-NK322WS Thin...,"₹39,490",Not Available,Not Available,Not Available,Not Available,3.9
+632,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.1
+633,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.5
+634,HP AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2223AU Thin and Light Laptop,"₹53,990",Not Available,Not Available,Not Available,Not Available,4
+635,HP 245 G8 AMD Ryzen 5 Quad Core 3500u - (8 GB/512 GB SSD/Windows 11 Home) 245 G8 Business Laptop,"₹25,990",Not Available,Not Available,Not Available,Not Available,3.7
+636,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹39,490",Not Available,Not Available,Not Available,Not Available,3.9
+637,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+638,Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and Ligh...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.1
+639,Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN8 Thin and ...,"₹43,990",Not Available,Not Available,Not Available,Not Available,4.2
+640,Lenovo Chromebook MediaTek Kompanio 520 - (8 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook,"₹39,990",Not Available,Not Available,Not Available,Not Available,4.2
+641,Apple Apple M3 - (16 GB/256 GB SSD/macOS Sequoia) MC8H4HN/A,"₹18,990",Not Available,Not Available,Not Available,Not Available,4.2
+642,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹26,990",Not Available,Not Available,Not Available,Not Available,4.7
+643,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+644,ASUS Vivobook Go 15 Intel Celeron Dual Core N4020 - (8 GB/512 GB SSD/Windows 11 Home) E510MA-EJ021WS T...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+645,Lenovo V14 Intel Core i5 11th Gen 1135G7 - (8 GB/256 GB SSD/Windows 10) V14 Thin and Light Laptop,"₹33,365",Not Available,Not Available,Not Available,Not Available,4.2
+646,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹34,190",Not Available,Not Available,Not Available,Not Available,3.7
+647,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,3.7
+648,Acer Aspire 3 Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) A324-53 Thin and Light...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+649,DELL Latitude 3540 (2024) Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Pro) Latitude 35...,"₹44,990",Not Available,Not Available,Not Available,Not Available,4.1
+650,Lenovo MSO'2024 AMD Ryzen 5 Hexa Core 5625U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and Light...,"₹1,04,990",Not Available,Not Available,Not Available,Not Available,4.2
+651,Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 15ALC7 Thin and Ligh...,"₹51,490",Not Available,Not Available,Not Available,Not Available,4.5
+652,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹13,990",Not Available,Not Available,Not Available,Not Available,4
+653,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹15,990",Not Available,Not Available,Not Available,Not Available,3.8
+654,Thomson NEO Core Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IN-N15I Thin ...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.7
+655,Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) 14IAU7 Thin and Lig...,"₹24,999",Not Available,Not Available,Not Available,Not Available,4.1
+656,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹51,490",Not Available,Not Available,Not Available,Not Available,4.2
+657,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+658,HP AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0156AU Thin and Light Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.1
+659,MSI Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1203IN Thin and ...,"₹33,900",Not Available,Not Available,Not Available,Not Available,4
+660,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Plus Laptop,"₹1,26,990",Not Available,Not Available,Not Available,Not Available,4.2
+661,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U - (8 GB/256 GB SSD/Windows 11 Home) AL15-41 Thin and Ligh...,"₹73,690",Not Available,Not Available,Not Available,Not Available,4.7
+662,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹32,490",Not Available,Not Available,Not Available,Not Available,4.8
+663,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹46,490",Not Available,Not Available,Not Available,Not Available,3.9
+664,DELL MSO'2021 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop ...,"₹17,990",Not Available,Not Available,Not Available,Not Available,5
+665,DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3520 Thin and Light Lap...,"₹21,990",Not Available,Not Available,Not Available,Not Available,4.3
+666,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹24,299",Not Available,Not Available,Not Available,Not Available,4.3
+667,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+668,Acer Aspire 3 Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) A324-53 Thin and Light ...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+669,"ASUS TUF Gaming F15, 90WHrs Battery Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/...","₹30,000",Not Available,Not Available,Not Available,Not Available,4.4
+670,DELL Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light Lap...,"₹18,990",Not Available,Not Available,Not Available,Not Available,3.7
+671,HP Chromebook MediaTek MT8183 - (4 GB/32 GB EMMC Storage/Chrome OS) 11MK G9 EE Chromebook,"₹1,04,990",Not Available,Not Available,Not Available,Not Available,4.3
+672,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹1,02,990",Not Available,Not Available,Not Available,Not Available,4.1
+673,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4
+674,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U - (8 GB/512 GB SSD/Windows 11 Home) 245 G8 Business L...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.1
+675,DELL Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin and Light Lap...,"₹80,190",Not Available,Not Available,Not Available,Not Available,4.2
+676,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,59,990",Not Available,Not Available,Not Available,Not Available,4.5
+677,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.8
+678,HP G9 Intel Core i3 13th Gen 1315U Turbo Boost with Finger Print - (16 GB/512 GB SSD/Windows 11 Pro) 2...,"₹62,990",Not Available,Not Available,Not Available,Not Available,3.9
+679,HP OMEN AI PC OLED Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeFo...,"₹1,24,990",Not Available,Not Available,Not Available,Not Available,4.2
+680,Lenovo IdeaPad Slim 5 2.5K IPS Intel Core i5 13th Gen 13500H - (16 GB/1 TB SSD/Windows 11 Home) 16IRL8...,"₹75,990",Not Available,Not Available,Not Available,Not Available,4
+681,HP 15R (2025) Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Pro) 15R G9 Thin and Light La...,"₹20,990",Not Available,Not Available,Not Available,Not Available,4.3
+682,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹40,800",Not Available,Not Available,Not Available,Not Available,4.5
+683,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.8
+684,HP Chromebook Intel Celeron Quad Core N4120 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a-ca0504TU Chromeb...,"₹99,990",Not Available,Not Available,Not Available,Not Available,3.7
+685,HP 255 G9 AMD Ryzen 3 Dual Core 3250 - (8 GB/512 GB SSD/Windows 11 Home) 255 G8 Thin and Light Laptop,"₹2,12,990",Not Available,Not Available,Not Available,Not Available,4.1
+686,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹41,500",Not Available,Not Available,Not Available,Not Available,4.2
+687,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+688,Lenovo V14 Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Pro) V14 G2-ITL Business Laptop,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,5
+689,DELL Intel Celeron Dual Core - (4 GB/256 GB SSD/4 GB EMMC Storage/Windows 11 Pro) 5470 ULTRA SLIM Thin...,"₹30,990",Not Available,Not Available,Not Available,Not Available,4.7
+690,MSI Prestige 13 Evo AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) Prestige 13 AI Ev...,"₹79,990",Not Available,Not Available,Not Available,Not Available,4.3
+691,Lenovo Yoga Slim 7 WUXGA OLED AI PC Intel Core Ultra 7 155H - (32 GB/1 TB SSD/Windows 11 Home) 14IMH9 ...,"₹1,76,990",Not Available,Not Available,Not Available,Not Available,4.4
+692,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹39,990",Not Available,Not Available,Not Available,Not Available,4.1
+693,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹17,990",Not Available,Not Available,Not Available,Not Available,3.7
+694,Lenovo IdeaPad Slim 5 Intel Core i7 13th Gen 13700H - (16 GB/1 TB SSD/Windows 11 Home) 16IRL8 Laptop,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+695,ASUS ROG Strix G16 with 90WHr Battery Intel HX-Series Intel Core i9 13th Gen 13980HX - (16 GB/1 TB SSD...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.6
+696,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹1,39,990",Not Available,Not Available,Not Available,Not Available,4.3
+697,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+698,Apple Apple M3 - (16 GB/256 GB SSD/macOS Sequoia) MC9D4HN/A,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.5
+699,HP Pavilion Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2015TU Thin and Light...,"₹1,18,789",Not Available,Not Available,Not Available,Not Available,4.4
+700,Lenovo V15 Intel Celeron Dual Core 4th Gen N4500 - (8 GB/256 GB SSD/Windows 11 Home) 82QYA00MIN Thin a...,"₹1,43,990",Not Available,Not Available,Not Available,Not Available,4.4
+701,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Hom...","₹38,500",Not Available,Not Available,Not Available,Not Available,4
+702,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹70,490",Not Available,Not Available,Not Available,Not Available,5
+703,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.2
+704,Apple MacBook Pro Apple M3 Pro - (18 GB/1 TB SSD/macOS Sonoma) MRX43HN/A,"₹62,990",Not Available,Not Available,Not Available,Not Available,4.1
+705,HP G8 Series Intel Core i5 11th Gen Intel® Core™ i5-1135G - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 B...,"₹84,990",Not Available,Not Available,Not Available,Not Available,3.9
+706,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹47,990",Not Available,Not Available,Not Available,Not Available,3.8
+707,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹65,990",Not Available,Not Available,Not Available,Not Available,4.2
+708,HP 255 G10 AMD Ryzen 5 Quad Core 7520U UPTO 4.3Ghz - (8 GB/512 GB SSD/Windows 11 Home) 255 G10 Thin an...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.7
+709,ASUS Vivobook S 15 Intel Core i9 13th Gen 13900H - (16 GB/512 GB SSD/Windows 11 Home) K5504VAB-BN417WS...,"₹73,490",Not Available,Not Available,Not Available,Not Available,4.2
+710,Apple MacBook Pro Apple M3 Pro - (18 GB/512 GB SSD/macOS Sonoma) MRX63HN/A,"₹1,24,990",Not Available,Not Available,Not Available,Not Available,4.2
+711,DELL AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3525 Thin and Light Lapt...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+712,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹73,490",Not Available,Not Available,Not Available,Not Available,4.2
+713,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.3
+714,Colorful P15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA Ge...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.3
+715,Apple MacBook Pro Apple M3 - (8 GB/1 TB SSD/macOS Sonoma) MR7K3HN/A,"₹23,900",Not Available,Not Available,Not Available,Not Available,4.3
+716,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹50,990",Not Available,Not Available,Not Available,Not Available,3.7
+717,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+718,ASUS ROG Strix G16 with 90WHr Battery Intel HX-Series Intel Core i7 13th Gen 13650HX - (16 GB/1 TB SSD...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+719,Apple Apple M3 - (24 GB/512 GB SSD/macOS Sequoia) MC8N4HN/A,"₹24,999",Not Available,Not Available,Not Available,Not Available,4.7
+720,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Hom...","₹28,990",Not Available,Not Available,Not Available,Not Available,4
+721,DELL Inspiron 3530 Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thi...,"₹31,849",Not Available,Not Available,Not Available,Not Available,4.3
+722,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹40,899",Not Available,Not Available,Not Available,Not Available,4.5
+723,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4
+724,MSI Thin A15 AMD Ryzen 7 Octa Core 7735HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.2
+725,ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11260H - (8 GB/512 GB SSD/Windows 11 Ho...,"₹3,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+726,HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFor...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+727,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹15,990",Not Available,Not Available,Not Available,Not Available,3.3
+728,HP Victus 15 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.4
+729,Apple MacBook Pro Apple M3 - (8 GB/512 GB SSD/macOS Sonoma) MTL73HN/A,"₹25,990",Not Available,Not Available,Not Available,Not Available,4.2
+730,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹94,990",Not Available,Not Available,Not Available,Not Available,4.7
+731,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹32,190",Not Available,Not Available,Not Available,Not Available,4.3
+732,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.2
+733,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+734,Lenovo IdeaPad 1 Intel Celeron Dual Core N4020 - (8 GB/512 GB SSD/Windows 11 Home) 14IGL7/ 15IGL7 Thin...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.3
+735,Acer Aspire 5 15 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) A515-58M Thin and Li...,"₹30,999",Not Available,Not Available,Not Available,Not Available,4.3
+736,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹3,28,990",Not Available,Not Available,Not Available,Not Available,3.6
+737,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,3.7
+738,ASUS Chromebook Intel Celeron Dual Core N4500 - (8 GB/128 GB EMMC Storage/Chrome OS) CX1400FKA-EC0168 ...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+739,ASUS Intel Pentium Gold 7505 - (8 GB/256 GB SSD/Windows 11 Home) X1500EA-EJ111WS Laptop,"₹3,28,990",Not Available,Not Available,Not Available,Not Available,4.5
+740,HP Laptop AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2212AU Thin and Light...,"₹1,39,990",Not Available,Not Available,Not Available,Not Available,4
+741,ASUS Vivobook GO 15 AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ549WS T...,"₹12,990",Not Available,Not Available,Not Available,Not Available,4.5
+742,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹82,990",Not Available,Not Available,Not Available,Not Available,4
+743,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+744,Apple MacBook Pro Apple M3 Max - (48 GB/1 TB SSD/macOS Sonoma) MUW73HN/A,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.1
+745,ASUS TUF Gaming F15 with 90WHr Battery Intel H-Series Intel Core i7 12th Gen 12700H - (16 GB/512 GB SS...,"₹42,990",Not Available,Not Available,Not Available,Not Available,4.2
+746,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹76,888",Not Available,Not Available,Not Available,Not Available,4.1
+747,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+748,Acer One Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) AO 14 Z 8-415 Thin and Ligh...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.1
+749,ASUS Zenbook 14 OLED AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) UX3405MA-PZ552WS...,"₹1,03,690",Not Available,Not Available,Not Available,Not Available,4.1
+750,Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 14AMN8 Thin and ...,"₹28,499",Not Available,Not Available,Not Available,Not Available,4.2
+751,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeFo...,"₹2,72,649",Not Available,Not Available,Not Available,Not Available,4.2
+752,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹2,97,490",Not Available,Not Available,Not Available,Not Available,4.7
+753,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,5
+754,HP 250R G9 Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 42V68PA Thin and Light Lap...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.7
+755,Apple MacBook Pro Apple M3 Max - (36 GB/1 TB SSD/macOS Sonoma) MRW73HN/A,"₹83,990",Not Available,Not Available,Not Available,Not Available,4
+756,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹91,990",Not Available,Not Available,Not Available,Not Available,3.7
+757,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+758,Apple MacBook Pro Apple M3 Max - (36 GB/1 TB SSD/macOS Sonoma) MRW33HN/A,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,3.7
+759,MSI Katana A17 AI AMD Ryzen 9 Octa Core 8945HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,"₹38,990",Not Available,Not Available,Not Available,Not Available,4.5
+760,Ultimus Intel Celeron Dual Core N4020 - (4 GB/128 GB EMMC Storage/Windows 11 Home) NU14U3INC43BN-MB Th...,"₹21,990",Not Available,Not Available,Not Available,Not Available,4
+761,HP Intel Core Ultra 7 155H - (16 GB/512 GB SSD/Windows 11 Home) 14-gr1023TU Thin and Light Laptop,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.6
+762,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹76,990",Not Available,Not Available,Not Available,Not Available,4.4
+763,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.7
+764,HP 14s Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 14s - dy2508TU Thin and Light...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+765,Infinix ZERO BOOK ULTRA Series Laptop Intel Intel Core i9 12th Gen 12900H - (16 GB/512 GB SSD/Windows ...,"₹51,990",Not Available,Not Available,Not Available,Not Available,4.1
+766,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹30,850",Not Available,Not Available,Not Available,Not Available,3.5
+767,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,3.7
+768,Lenovo LOQ Intel Core i7 13th Gen 13650HX - (24 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+769,Lenovo V15 G2 AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) V15 G2 ALC Laptop,"₹2,34,990",Not Available,Not Available,Not Available,Not Available,4.7
+770,Apple MacBook Pro Apple M3 Pro - (36 GB/512 GB SSD/macOS Sonoma) MRW63HN/A,"₹1,19,990",Not Available,Not Available,Not Available,Not Available,3.8
+771,Apple Apple M4 Max - (36 GB/1 TB SSD/macOS Sequoia) MX2K3HN/A,"₹79,990",Not Available,Not Available,Not Available,Not Available,4.7
+772,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹71,990",Not Available,Not Available,Not Available,Not Available,4.1
+773,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹15,990",Not Available,Not Available,Not Available,Not Available,3.6
+774,HP Victus Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.3
+775,HP Victus AMD Ryzen 7 Octa Core 8845HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce ...,"₹31,500",Not Available,Not Available,Not Available,Not Available,4.3
+776,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,94,990",Not Available,Not Available,Not Available,Not Available,4.4
+777,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.6
+778,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ5541WS ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,3.7
+779,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook Plus Laptop,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.2
+780,HP 15s Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq5007TU Thin and Light La...,"₹1,69,990",Not Available,Not Available,Not Available,Not Available,4.2
+781,"ASUS Vivobook 16X For Creator, Intel H-Series Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Window...","₹1,09,990",Not Available,Not Available,Not Available,Not Available,4.6
+782,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹53,989",Not Available,Not Available,Not Available,Not Available,4.1
+783,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹46,490",Not Available,Not Available,Not Available,Not Available,3.9
+784,Infinix ZEROBOOK 13 Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) ZL513 Thin and ...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.5
+785,HP 250 G8 Intel Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 250 G8 Business Laptop,"₹81,990",Not Available,Not Available,Not Available,Not Available,4
+786,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹12,990",Not Available,Not Available,Not Available,Not Available,4.2
+787,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.1
+788,Apple MacBook Pro Apple M3 Pro - (18 GB/512 GB SSD/macOS Sonoma) MRW43HN/A,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.1
+789,"ASUS Vivobook S 15 OLED Powered, Intel EVO H Series, AI PC Intel Core Ultra 9 185H - (16 GB/1 TB SSD/W...","₹30,290",Not Available,Not Available,Not Available,Not Available,4.2
+790,ASUS TUF Gaming A16 Advantage Edition AMD Ryzen 7 Octa Core 7435HS - (16 GB/512 GB SSD/Windows 11 Home...,"₹91,990",Not Available,Not Available,Not Available,Not Available,5
+791,Infinix ZEROBOOK 13 Intel Intel Core i7 13th Gen 13700H - (16 GB/512 GB SSD/Windows 11 Home) ZL513 Thi...,"₹30,990",Not Available,Not Available,Not Available,Not Available,4
+792,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹25,810",Not Available,Not Available,Not Available,Not Available,4.2
+793,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.7
+794,Acer Aspire Lite Intel Core i3 11th Gen 1115G4 - (16 GB/512 GB SSD/Windows 11 Home) AL15-51 Thin and L...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4
+795,Apple Apple M4 - (24 GB/1 TB SSD/macOS Sequoia) MCX14HN/A,"₹1,37,990",Not Available,Not Available,Not Available,Not Available,4.7
+796,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹1,34,990",Not Available,Not Available,Not Available,Not Available,4.3
+797,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.3
+798,MSI Cyborg 15 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...,"₹53,990",Not Available,Not Available,Not Available,Not Available,5
+799,MSI Crosshair 16 HX Intel Core i7 14th Gen 14700HX - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVI...,"₹14,990",Not Available,Not Available,Not Available,Not Available,3.9
+800,MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA ...,"₹1,34,990",Not Available,Not Available,Not Available,Not Available,4
+801,MSI Modern 15 H AI Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 H AI C1MG-04...,"₹50,990",Not Available,Not Available,Not Available,Not Available,3.7
+802,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹31,490",Not Available,Not Available,Not Available,Not Available,4.2
+803,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.3
+804,DELL Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) New Inspiron 15 M...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,3.5
+805,Acer Chromebook Intel Celeron Dual Core N4500 - (8 GB/64 GB EMMC Storage/Chrome OS) CB314-3H-C5QE/ CB3...,"₹52,989",Not Available,Not Available,Not Available,Not Available,4.5
+806,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹78,190",Not Available,Not Available,Not Available,Not Available,4
+807,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+808,HP 250 G8 Intel Core i3 11th Gen - (8 GB/512 GB SSD/DOS) 250 G8 Notebook,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.3
+809,"ASUS Vivobook S 15 OLED Powered, Intel EVO H Series, AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/W...","₹54,527",Not Available,Not Available,Not Available,Not Available,3.8
+810,Acer Aspire Lite Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) AL15-52 Thin and Li...,"₹81,900",Not Available,Not Available,Not Available,Not Available,3.7
+811,"HP 255 G10 AMD Ryzen 3 Octa Core 13th Gen AMD Ryzen™ 3 7320U (up to 4.1 GHz, 4 cores, 8 threads) - (8 ...","₹1,49,990",Not Available,Not Available,Not Available,Not Available,4.2
+812,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹20,990",Not Available,Not Available,Not Available,Not Available,4.1
+813,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+814,Acer Predator Helios Neo 16 Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Grap...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.7
+815,MSI Crosshair 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVI...,"₹1,04,990",Not Available,Not Available,Not Available,Not Available,4.2
+816,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹1,07,990",Not Available,Not Available,Not Available,Not Available,4.7
+817,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+818,Primebook 4G Android Based MediaTek MT8788 - (4 GB/128 GB EMMC Storage/Prime OS) 4G Thin and Light Lap...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.3
+819,MSI Crosshair 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVI...,"₹1,37,990",Not Available,Not Available,Not Available,Not Available,3.3
+820,Acer Aspire 7 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA G...,"₹89,990",Not Available,Not Available,Not Available,Not Available,4.3
+821,HP FC0026AU AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0025AU Thin and Light...,"₹39,490",Not Available,Not Available,Not Available,Not Available,4.3
+822,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹23,990",Not Available,Not Available,Not Available,Not Available,3.8
+823,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,3.7
+824,MSI Modern 15 H AI Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 H AI C1MG-04...,"₹53,990",Not Available,Not Available,Not Available,Not Available,3.7
+825,Lenovo IdeaPad Slim 5 Intel Core i7 13th Gen 13700H - (16 GB/512 GB SSD/Windows 11 Home) 16IRL8 Laptop,"₹31,990",Not Available,Not Available,Not Available,Not Available,4.2
+826,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹36,690",Not Available,Not Available,Not Available,Not Available,4.3
+827,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.2
+828,Infinix ZERO BOOK Series Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home) ZL12 Busin...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.7
+829,ASUS TUF Gaming F15 with 90Whr Battery Intel Core i7 12th Gen 12700H - (16 GB/1 TB SSD/Windows 11 Home...,"₹29,990",Not Available,Not Available,Not Available,Not Available,4.5
+830,MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,"₹31,890",Not Available,Not Available,Not Available,Not Available,4
+831,ASUS Vivobook Go 15 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) E510MA-EJ001W Th...,"₹25,650",Not Available,Not Available,Not Available,Not Available,4.3
+832,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹89,999",Not Available,Not Available,Not Available,Not Available,4.3
+833,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+834,ASUS Zenbook 14 OLED AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home) UX3405MA-PZ752WS...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.1
+835,MSI Sword 16 HX Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,"₹96,990",Not Available,Not Available,Not Available,Not Available,4.1
+836,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.3
+837,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.2
+838,ASUS TUF Gaming A15 AMD Ryzen 9 Octa Core 8945H - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,3.7
+839,"ASUS Vivobook S 15 OLED Powered Copilot + , AI PC Snapdragon X Plus - (16 GB/1 TB SSD/Windows 11 Home)...","₹39,490",Not Available,Not Available,Not Available,Not Available,4.2
+840,DELL Inspiron 3535 MSO 2024 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) 0IN3535100...,"₹31,970",Not Available,Not Available,Not Available,Not Available,4.7
+841,Lenovo IdeaPad Slim 1 Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 14IGL7 Thin an...,"₹88,990",Not Available,Not Available,Not Available,Not Available,3.7
+842,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹22,590",Not Available,Not Available,Not Available,Not Available,3.9
+843,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.3
+844,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ322WS Thin...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,4.3
+845,DELL Inspiron Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) 3530 Thin and Light Lap...,"₹25,650",Not Available,Not Available,Not Available,Not Available,4.1
+846,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹89,999",Not Available,Not Available,Not Available,Not Available,4.4
+847,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.1
+848,Acer One 14 Intel Core i3 11th Gen 1115G4 - (16 GB/512 GB SSD/Windows 11 Home) Z8-415 Thin and Light L...,"₹53,990",Not Available,Not Available,Not Available,Not Available,3.7
+849,DELL AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3525 Thin and Light Lapt...,"₹31,890",Not Available,Not Available,Not Available,Not Available,4.2
+850,HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq3066TU Thin and Light Lapt...,"₹96,990",Not Available,Not Available,Not Available,Not Available,4.6
+851,HP Pavilion x360 Intel Core i7 13th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-ek1020TU 2 in 1 Laptop,"₹39,490",Not Available,Not Available,Not Available,Not Available,3.8
+852,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹49,990",Not Available,Not Available,Not Available,Not Available,4.5
+853,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4
+854,"ASUS Vivobook S 15 OLED Powered, Intel EVO H Series, AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/W...","₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+855,Acer Aspire 5 15 Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) A515-58M Thin and Li...,"₹31,970",Not Available,Not Available,Not Available,Not Available,4
+856,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹88,990",Not Available,Not Available,Not Available,Not Available,4.8
+857,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.2
+858,DELL Inspiron 3530 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+859,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1404FA-NK327WS Th...,"₹50,990",Not Available,Not Available,Not Available,Not Available,4.1
+860,HP Pavilion Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) 15-eg3036TU Thin and Light...,"₹44,900",Not Available,Not Available,Not Available,Not Available,3.9
+861,"DELL Wyse 5470 Intel Celeron Quad Core Processor Base Frequency 1.10 GHz, Burst Frequency 2.40 GHz - (...","₹36,490",Not Available,Not Available,Not Available,Not Available,4.8
+862,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹1,29,990",Not Available,Not Available,Not Available,Not Available,4.2
+863,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.7
+864,HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq3066TU Thin and Light Lapt...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.1
+865,HP Pavilion x360 Intel Core i7 13th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-ek1020TU 2 in 1 Laptop,"₹12,990",Not Available,Not Available,Not Available,Not Available,4.3
+866,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹40,500",Not Available,Not Available,Not Available,Not Available,3.7
+867,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,4.2
+868,DELL AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3525 Thin and Light Lapt...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,3.7
+869,"ASUS Vivobook S 15 OLED Powered, Intel EVO H Series, AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/W...","₹71,990",Not Available,Not Available,Not Available,Not Available,4.2
+870,DELL Inspiron 3530 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3530 Thin...,"₹71,499",Not Available,Not Available,Not Available,Not Available,4.3
+871,Acer Aspire 5 15 Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) A515-58M Thin and Li...,"₹1,49,990",Not Available,Not Available,Not Available,Not Available,4.5
+872,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹34,490",Not Available,Not Available,Not Available,Not Available,4
+873,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.1
+874,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1404FA-NK327WS Th...,"₹53,990",Not Available,Not Available,Not Available,Not Available,5
+875,HP Pavilion Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) 15-eg3036TU Thin and Light...,"₹1,10,190",Not Available,Not Available,Not Available,Not Available,5
+876,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹48,990",Not Available,Not Available,Not Available,Not Available,4.2
+877,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.1
+878,ASUS Vivobook 15X Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) K3504VAB-NJ541WS T...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+879,HP 14s AMD Ryzen 5 Quad Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) fy1003AU Thin and Light Laptop,"₹41,999",Not Available,Not Available,Not Available,Not Available,3.5
+880,HP FQ Series Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-FQ5326TU Thin and Li...,"₹33,490",Not Available,Not Available,Not Available,Not Available,4.2
+881,MSI Sword 16 HX Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...,"₹88,480",Not Available,Not Available,Not Available,Not Available,4.7
+882,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹28,990",Not Available,Not Available,Not Available,Not Available,3.9
+883,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,4.5
+884,walker Intel Celeron Dual Core N4020 - (4 GB/128 GB SSD/Windows 11 Home) NU14A1 Thin and Light Laptop,"₹17,990",Not Available,Not Available,Not Available,Not Available,4
+885,DELL Inspiron AMD Ryzen 3 Quad Core 5425U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3525 Thin and L...,"₹75,990",Not Available,Not Available,Not Available,Not Available,4.2
+886,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹96,020",Not Available,Not Available,Not Available,Not Available,4.3
+887,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+888,DELL Inspiron 7440 2-in-1 Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 1...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.2
+889,HP Pavilion x360 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 14-ek0074TU 2 in 1 ...,"₹28,990",Not Available,Not Available,Not Available,Not Available,3.7
+890,"ASUS Zenbook S 14 OLED (2024) - Next-Gen AI PC, with Touchscreen, Intel Core Ultra 7 - (32 GB/1 TB SSD...","₹33,574",Not Available,Not Available,Not Available,Not Available,4.2
+891,HP Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5006TU Thin and Light Laptop,"₹37,990",Not Available,Not Available,Not Available,Not Available,3.5
+892,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹1,18,990",Not Available,Not Available,Not Available,Not Available,4.5
+893,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹15,990",Not Available,Not Available,Not Available,Not Available,4.7
+894,Lenovo Yoga 7 WUXGA-OLED Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) 14IRL8 2 in 1...,"₹53,990",Not Available,Not Available,Not Available,Not Available,4.2
+895,Acer Aspire 5 Backlit Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) A515-58M Thin ...,"₹25,389",Not Available,Not Available,Not Available,Not Available,4.5
+896,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹86,190",Not Available,Not Available,Not Available,Not Available,4
+897,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,4.8
+898,Acer Aspire 3 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) A315-24P Thin and Light ...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,4.2
+899,HP G9 AMD Ryzen 5 Hexa Core 5th Gen 5625U - (16 GB/512 GB SSD/Windows 11 Home) 7B1L8PA Notebook,"₹30,990",Not Available,Not Available,Not Available,Not Available,4.2
+900,DELL G15 Intel Core i5 13450HX - (8 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 305...,"₹1,64,990",Not Available,Not Available,Not Available,Not Available,4.1
+901,Acer Aspire 3 Intel Core i3 13th Gen - (8 GB/256 GB SSD/Windows 11 Home) A324-53 Thin and Light Laptop,"₹89,990",Not Available,Not Available,Not Available,Not Available,4.3
+902,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹53,990",Not Available,Not Available,Not Available,Not Available,5
+903,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹46,490",Not Available,Not Available,Not Available,Not Available,2.7
+904,DELL Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) New Inspiron 15 Me...,"₹17,990",Not Available,Not Available,Not Available,Not Available,4.2
+905,MSI Thin A15 AMD Ryzen 7 Octa Core 7735HS - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeFor...,"₹71,990",Not Available,Not Available,Not Available,Not Available,4.7
+906,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹74,990",Not Available,Not Available,Not Available,Not Available,4.4
+907,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹41,000",Not Available,Not Available,Not Available,Not Available,4.3
+908,Acer Aspire 3 Intel Core i3 12th Gen N305 - (8 GB/512 GB SSD/Windows 11 Home) A324-31 Thin and Light L...,"₹1,45,990",Not Available,Not Available,Not Available,Not Available,4.3
+909,HP 15s AMD Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 10 Home) 15s- EQ2042AU Thin and Light La...,"₹31,490",Not Available,Not Available,Not Available,Not Available,4.3
+910,Lenovo IdeaPad 3 Intel Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/DOS) 15ITL6 Thin and Light Lap...,"₹94,990",Not Available,Not Available,Not Available,Not Available,4.7
+911,SAMSUNG Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U - (16 GB/1 TB SSD/Windows 11 Home) NP...,"₹33,390",Not Available,Not Available,Not Available,Not Available,Not Available
+912,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹38,990",Not Available,Not Available,Not Available,Not Available,Not Available
+913,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,Not Available
+914,HP AMD Ryzen 3 Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 15s-ey1508AU Thin and Light Laptop,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,Not Available
+915,Lenovo Yoga 7 Intel Core i5 13th Gen 1340P - (16 GB/512 GB SSD/Windows 11 Home) 14IRL8 Thin and Light ...,"₹1,42,990",Not Available,Not Available,Not Available,Not Available,Not Available
+916,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,"₹31,999",Not Available,Not Available,Not Available,Not Available,Not Available
+917,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹15,990",Not Available,Not Available,Not Available,Not Available,Not Available
+918,HP 247 G8 AMD Ryzen 5 Dual Core 3500U - (8 GB/512 GB SSD/Windows 11 Home) 247 G8 Notebook,"₹53,990",Not Available,Not Available,Not Available,Not Available,Not Available
+919,"ASUS TUF Gaming A14 (2024) - AI PC, AMD Ryzen AI 9 12 Core HX 370 - (32 GB/2 TB SSD/Windows 11 Home/8 ...","₹19,990",Not Available,Not Available,Not Available,Not Available,Not Available
+920,MSI Cyborg 14 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA G...,"₹1,19,990",Not Available,Not Available,Not Available,Not Available,Not Available
+921,Lenovo Ideapad 3 Intel Core i5 11th Gen 1135G7 - (8 GB/512 GB SSD/Windows 11 Home) IdeaPad 3 15ITL6 Th...,"₹94,990",Not Available,Not Available,Not Available,Not Available,Not Available
+922,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,"₹37,890",Not Available,Not Available,Not Available,Not Available,Not Available
+923,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,"₹99,990",Not Available,Not Available,Not Available,Not Available,Not Available
+924,Lenovo IdeaPad Slim 5 AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) 16IMH9 Thin and...,"₹1,27,490",Not Available,Not Available,Not Available,Not Available,Not Available
+925,Lenovo LOQ Intel Core i5 12th Gen 12450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,"₹88,990",Not Available,Not Available,Not Available,Not Available,Not Available
+926,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,"₹37,999",Not Available,Not Available,Not Available,Not Available,Not Available
+927,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,"₹46,490",Not Available,Not Available,Not Available,Not Available,Not Available
+928,HP FC0026AU AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15-fc0025AU Thin and Light...,"₹17,990",Not Available,Not Available,Not Available,Not Available,Not Available
+929,Acer Nitro 5 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...,"₹79,150",Not Available,Not Available,Not Available,Not Available,Not Available
+930,HP 250 G9 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 7M657PA Thin and Light Lapt...,"₹71,990",Not Available,Not Available,Not Available,Not Available,Not Available
+931,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U - (16 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ5542WS ...,"₹99,990",Not Available,Not Available,Not Available,Not Available,Not Available
+932,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,"₹11,990",Not Available,Not Available,Not Available,Not Available,Not Available
+933,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,"₹41,000",Not Available,Not Available,Not Available,Not Available,Not Available
+934,"ASUS Zenbook 14 OLED (2025) with Office 2024 + M365 Basic*, AI PC Intel Core Ultra 9 285H - (32 GB/1 T...","₹1,45,990",Not Available,Not Available,Not Available,Not Available,Not Available
+935,HP 250 G9 Intel Core i3 12th Gen Intel Core i3 1215U - (8 GB/512 GB SSD/Windows 11 Home) 250 G9 Busine...,"₹1,04,990",Not Available,Not Available,Not Available,Not Available,Not Available
+936,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop,"₹1,12,990",Not Available,Not Available,Not Available,Not Available,Not Available
+937,HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...,"₹73,990",Not Available,Not Available,Not Available,Not Available,Not Available
+938,Lenovo IdeaPad 3 Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) ideapa...,"₹1,16,990",Not Available,Not Available,Not Available,Not Available,Not Available
+939,Acer Predator Neo Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDI...,"₹46,999",Not Available,Not Available,Not Available,Not Available,Not Available
+940,"ASUS Vivobook S 15 OLED Powered, Intel EVO H Series, AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/W...","₹70,190",Not Available,Not Available,Not Available,Not Available,Not Available
+941,HP Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq5138tu Thin and Light Laptop,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+942,HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+943,HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+944,DELL Inspiron 16 5630 Intel Core i7 1360P - (16 GB/1 TB SSD/Windows 11 Home) IN5630MV7F4001ORS1 Laptop,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+945,DELL inspiron 15 AMD Ryzen 5 Quad Core 7520U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3535 Laptop ...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+946,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+947,CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+948,Acer Swift Go 14 EVO OLED Intel Core i5 13th Gen 13500H - (16 GB/512 GB SSD/Windows 11 Home) SFG14-71-...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+949,ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVI...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+950,MSI Cyborg 15 AI PC Intel Core Ultra 7 155H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+951,Ultimus Pro Intel Celeron Dual Core N4020 - (4 GB/128 GB EMMC Storage/Windows 11 Home) NU14U3INC43BN C...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+952,HP Laptop Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 15-fd0186TU Thin and Light ...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+953,HP OMEN Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+954,Acer Predator Neo Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDI...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+955,"ASUS Zenbook 14 OLED (2025) with Office 2024 + M365 Basic*, AI PC Intel Core Ultra 5 225H - (16 GB/1 T...",Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+956,HP 15s Intel Core i7 13th Gen 1360P - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0024TU Thin and Light La...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+957,HP Omen Intel Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce R...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+958,HP Intel Intel Core i5 11th Gen 1155G7 - (8 GB/512 GB SSD/Windows 11 Home) 15s- fr4000TU Thin and Ligh...,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+959,Lenovo Legion Go AMD Ryzen Z1 Extreme - (16 GB/512 GB SSD/Windows 11 Home) 8APU1 Handheld Gaming PC,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
